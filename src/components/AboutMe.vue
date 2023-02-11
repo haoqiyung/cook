@@ -5,49 +5,23 @@ import { isDark } from '~/composables'
 
 const copyright = {
   name: 'Cook',
-  repo: 'YunYouJun/cook',
+  repo: 'haoqiyung/cook',
   color: '#0078E7',
-  iconUrl: 'https://sponsors.yunyoujun.cn',
-  author: '云游君',
-  authorUrl: 'https://www.yunyoujun.cn',
+  iconUrl: 'https://cook.wasenk.cf',
+  author: 'HaoQi',
+  authorUrl: 'https://cook.wasenk.cf',
 }
 
 const links = [
   {
     type: 'github',
-    label: 'GitHub: YunYouJun',
-    href: 'https://github.com/YunYouJun',
-  },
-  {
-    type: 'telegram',
-    label: 'Telegram Channel',
-    href: 'https://t.me/elpsycn',
-  },
-  {
-    type: 'weibo',
-    label: '微博：机智的云游君',
-    href: 'http://weibo.com/jizhideyunyoujun',
-  },
-  {
-    type: 'twitter',
-    label: 'Twitter: YunYouJun',
-    href: 'https://twitter.com/YunYouJun',
-  },
-  {
-    type: 'wechat',
-    label: '微信公众号：云游君',
-    href: '/wechat',
-    target: '_self',
-  },
-  {
-    type: 'bilibili',
-    label: '云游君Official',
-    href: 'https://space.bilibili.com/1579790',
+    label: 'GitHub: HaoQi',
+    href: 'https://github.com/haoqiyung',
   },
   {
     type: 'blog',
-    label: '博客：yunyoujun.cn',
-    href: 'http://www.yunyoujun.cn',
+    label: '博客：HaoQi',
+    href: 'http://haoqi7.github.io',
   },
 ]
 </script>
