@@ -2,13 +2,8 @@
 title: 帮助
 ---
 
-- 相关链接
-  - [居家菜谱投稿](https://docs.qq.com/form/page/DWk9GWW9oTmlXZU9V)
-  - [晒晒你的菜](https://docs.qq.com/sheet/DQk1vdkhFV0twQVNS?tab=dmeahc)
-  - [反馈建议](https://docs.qq.com/sheet/DQk1vdkhFV0twQVNS?tab=snaau2)
-- 网站相关
-  - 故障/新功能反馈：[Issues](https://github.com/YunYouJun/cook/issues)
-  - 交流/建议/分享：[Discussions](https://github.com/YunYouJun/cook/issues)
+
+  - 交流/建议/分享：[Discussions](https://github.com/haoqiyung/cook/issues)
 
 ## **模式说明**
 
