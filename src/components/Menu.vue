@@ -20,7 +20,7 @@ import { toggleDark } from '~/composables'
       <div i-ri-information-line />
     </RouterLink>
 
-    <a class="icon-btn mx-2 hover:text-pink-400" rel="noreferrer" href="https://haoqi7.github.io" target="_blank" title="blog">
+    <a class="icon-btn mx-2 hover:text-pink-400" rel="noreferrer" href="https://haoqi7.github.io" target="_blank" title="Blog">
       <div i-ri-blog-line />
     </a>
 
