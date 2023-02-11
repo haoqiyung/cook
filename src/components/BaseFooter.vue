@@ -5,7 +5,7 @@ const displayICP = ref(true)
 
 onBeforeMount(() => {
   if (isClient)
-    displayICP.value = ['cook.yunyoujun.cn', 'localhost', '127.0.0.1'].includes(window.location.hostname)
+    displayICP.value = ['cook.wasenk.cf', 'localhost', '127.0.0.1'].includes(window.location.hostname)
 })
 
 const commitSha = (import.meta.env.VITE_COMMIT_REF || '').slice(0, 7)
